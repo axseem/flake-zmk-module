@@ -127,8 +127,8 @@
         base {
             bindings = <
 &kp ENTER  &kp B     &kp L     &kp D      &kp C      &kp V     &kp J   &kp F      &kp O      &kp U     &kp SEMI      &kp BSPC
-&kp TAB    &kp A     &kp S     &kp D      &kp F      &kp G     &kp Y   &kp H      &kp A      &kp E     &kp I   &kp APOS
-&kp LBKT   &kp Z     &kp X     &kp C      &kp V      &kp B     &kp K   &kp P      &kp COMMA  &kp DOT   &kp APOS   &kp RBKT
+&kp TAB    &kp N     &kp R     &kp T      &kp S      &kp G     &kp Y   &kp H      &kp A      &kp E     &kp I   &kp APOS
+&kp LBKT   &kp X     &kp Q     &kp M      &kp W      &kp Z     &kp K   &kp P      &kp COMMA  &kp DOT   &kp APOS   &kp RBKT
            &kp LGUI  &kp LALT  &kp LCTRL  &kp SPACE  &mo 1     &mo 2   &kp LSHFT  &kp LGUI   &kp LALT  &kp LCTRL
             >;
         };
